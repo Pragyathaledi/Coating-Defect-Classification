@@ -1,6 +1,6 @@
 # Transfer learning for multi-label coating defect classification
 
-Code and results for the paper *"Transfer learning for multi-label coating defect classification: evaluation protocol, noise robustness and deployment cost"* ([Authors], 2026).
+Code and results for the paper *"Transfer learning for multi-label coating defect classification: evaluation protocol, noise robustness and deployment cost"* ([Pragya Thaledi, Kanika Garg, Neeta Verma and Smita Bajpai], 2026).
 
 ## What this repository does
 Four models are compared on the public **CoatingVision** dataset (2,227 electrode-coating images, four labels: surface crack, delamination, pinhole, unclassified):
